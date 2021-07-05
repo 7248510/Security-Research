@@ -4,3 +4,5 @@
 * The Ghidra Book
 * Practical Malware Analysis
 * Udemy
+* Fuzzy Security
+* Corelan
